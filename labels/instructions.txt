@@ -1,0 +1,2 @@
+Add a folder named with the label/person you want to refer in script.js.
+Add some photos of that person in the folder and name them numerically e.g. "1.jpg, 2.jpg".
